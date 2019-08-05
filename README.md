@@ -1,0 +1,1 @@
+# Creating-a-searchable-database-with-text-extracted-from-scanned-Pdfs-or-images
